@@ -21,7 +21,7 @@ Words Per Minute(WPM)-> Optimal: 140 -160 words per minute (wpm)</Br>
 Use of filler words - ohh,umm,long pauses etc</Br>
 
 # Some challenges:
-Grammar check - How to implement </Br>
+Grammar check </Br>
 Eye contact/tracking in video analysis </Br>
 How to detect long pauses while audio to text conversion </Br>
 
